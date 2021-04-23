@@ -3,7 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a 21st-century programmer and a web-developer who loves to explore new technologies and developing software solutions. I'm also a JavaScript, CSS & HTML Enthusiast and passionate about creating various websites and pages. I also love to do Illustrations and create animations using Procreate. I want to use the technology to help make people's lives more helpful, exciting and fulfilling.
+I'm a 21st-century programmer and a web-developer who loves to explore new technologies and developing software solutions. I'm also a JavaScript, CSS & HTML Enthusiast and passionate about creating various websites and pages. I also love to do Illustrations and create animations using Procreate.
+I believe in going hand in hand toward creating amazing things. Looking to work with some amazing humans on some impactful project. Focusing on turning ideas into delightful and meaningful solutions. I have passion for self-learning and strive to improve and challenge my skills to become better at what I do. And most important thing, I love the things I do and I'm passionate about doing them.
+I want to use the technology to help make people's lives more helpful, exciting and fulfilling.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
