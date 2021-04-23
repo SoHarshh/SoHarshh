@@ -43,7 +43,7 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoHarshh&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHarshh&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/harsh-soni-4005231b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-HARSH SONI-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sip.swallow.shuttle/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sip.Swallow.Shuttle-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:Soni.harsh0707@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Soni.harsh0707@gmail.com-blue?style=flat-square&logo=gmail"></a>
