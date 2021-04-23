@@ -31,7 +31,7 @@ I'm a 21st-century programmer and a web-developer who loves to explore new techn
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/SoHarshh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoHarshh&theme=buefy&show_icons=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHarshh&theme=buefy&layout=compact" /> -->
 </a>
