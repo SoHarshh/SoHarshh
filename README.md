@@ -46,7 +46,7 @@ I want to use the technology to help make people's lives more helpful, exciting 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/harsh-soni-4005231b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-HARSH SONI-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sip.swallow.shuttle/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sip.Swallow.Shuttle-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/SoHarshh__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SoHarshh__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:Soni.harsh0707@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Soni.harsh0707@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
