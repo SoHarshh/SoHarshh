@@ -35,13 +35,6 @@ I want to use the technology to help make people's lives more helpful, exciting 
 
 <br/>
 
-<a href="https://github.com/SoHarshh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoHarshh&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHarshh&theme=buefy&layout=compact" /> -->
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
